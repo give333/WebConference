@@ -1,2 +1,3 @@
 # WebConference
-teste 1 de projecto - aplicação web para gerir uma conferência
+teste - aplicação web para gerir uma conferência
+Primeira alteração!
